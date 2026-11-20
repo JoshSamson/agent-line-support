@@ -1,6 +1,6 @@
 # Agent Line support
 
-Agent Line is an iPhone app for calling AI voice agents that run on a server you choose. This page is where to get help with it.
+Agent Line is an iPhone app for calling AI voice agents that run on a server you choose, and for receiving calls from them. This page is where to get help with it.
 
 ## Getting help
 
@@ -17,7 +17,7 @@ Agent Line shows the agents on servers you add. Tap "Add a server", then scan th
 The server's address must start with `https://` unless it is on the same Wi-Fi network as the phone. Check the server is running, then tap "Try again".
 
 **Can agents call me?**
-Not in this version. You call them.
+Yes, from version 1.1. Switch on Incoming calls in Settings, and an agent on a server you have added can ring your iPhone. Each server has its own "This server may call me" switch. Your server has to support incoming calls.
 
 **How do I remove a server?**
 Settings, tap the server, then "Remove server". Its agents, their photos and their calls leave the phone.
